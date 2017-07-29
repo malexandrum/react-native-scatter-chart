@@ -1,0 +1,25 @@
+{
+  "name": "react-native-scatter-chart",
+  "version": "1.0.0",
+  "description": "Simple chart without native dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malexandrum/react-native-scatter-chart.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "scatter",
+    "chart"
+  ],
+  "author": "Alexandru Molodoi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malexandrum/react-native-scatter-chart/issues"
+  },
+  "homepage": "https://github.com/malexandrum/react-native-scatter-chart#readme"
+}
