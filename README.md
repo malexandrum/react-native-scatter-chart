@@ -9,7 +9,7 @@ Very simple scatter chart without native dependencies
     backgroundColor='#ffffff'
     data={chartData}
     minY={90}
-    maxY={110/* maxX={(new Date(leaseDateISO)).valueOf() + leaseMonths * 30 * 24 * 60 * 60 * 1000} */}
+    maxY={110}
     unitY='%'
     horizontalLinesAt={[80, 90, 100, 110, 120]}
     height={200}
