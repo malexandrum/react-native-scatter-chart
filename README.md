@@ -1,5 +1,20 @@
 # react-native-scatter-chart
-Simple scatter chart without native dependencies
+Very simple scatter chart without native dependencies
+
+<img src='react-native-scatter-chart-1.png' width=300 />
+
+## Usage
+```javascript
+<ScatterChart
+    backgroundColor='#ffffff'
+    data={chartData}
+    minY={90}
+    maxY={110/* maxX={(new Date(leaseDateISO)).valueOf() + leaseMonths * 30 * 24 * 60 * 60 * 1000} */}
+    unitY='%'
+    horizontalLinesAt={[80, 90, 100, 110, 120]}
+    height={200}
+/>
+```
 
 ## Why this module?
 Wanted to display a simple scatter chart in my React Native app and existing modules depended on multiple modules and always needed native components.
