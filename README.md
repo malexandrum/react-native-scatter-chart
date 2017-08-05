@@ -3,6 +3,15 @@ Very simple scatter chart without native dependencies
 
 <img src='react-native-scatter-chart-1.png' width=300 />
 
+## Installation
+```
+npm i --save react-native-scatter-chart
+```
+(or)
+```
+yarn add react-native-scatter-chart
+```
+
 ## Usage
 Data format:
 ```javascript
