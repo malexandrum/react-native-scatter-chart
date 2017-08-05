@@ -15,7 +15,7 @@ yarn add react-native-scatter-chart
 ## Usage
 Data format:
 ```javascript
-const data = [
+const chartData = [
     {
         color: 'red',
         unit: '%',
