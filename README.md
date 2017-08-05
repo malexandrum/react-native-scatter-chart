@@ -1,7 +1,7 @@
 # react-native-scatter-chart
 Very simple scatter chart without native dependencies
 
-<img src='react-native-scatter-chart-1.png' width=300 />
+<img src='react-native-scatter-chart-1.png' width=400 />
 
 ## Installation
 ```
