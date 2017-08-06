@@ -35,11 +35,9 @@ Inside render:
 <ScatterChart
     backgroundColor='#ffffff'
     data={chartData}
-    minY={90}
-    maxY={110}
-    unitY='%'
-    horizontalLinesAt={[80, 90, 100, 110, 120]}
     height={200}
+    horizontalLinesAt={[-1,-.5,0,.5,1]}
+    unitY=''
 />
 ```
 
